@@ -1,0 +1,54 @@
+   
+        body {
+            background-color: #f4f0ec;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        header {
+            background-color: #fff9f2;
+        }
+        .section {
+            padding: 3rem 1rem;
+        }
+        h1, h2, h3, h6 {
+            color: #3c3c3c;
+        }
+        .card {
+            padding: 1rem;
+            background-color: #ffffff;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            border-radius: 0.75rem;
+            margin-bottom: 1.5rem;
+        }
+        button {
+            margin-right: 1rem;
+            padding: 0.5rem 1rem;
+            border: none;
+            border-radius: 0.5rem;
+        }
+        .btn-blue {
+            background-color: #007bff;
+            color: #fff;
+        }
+        #contact-details {
+            background-color: #fffdf9;
+            border-top: 2px solid #e0e0e0;
+        }
+        .gradient-background {
+            background: linear-gradient(to right, #ffe1cc, #fbd5d5);
+            padding: 1rem 0;
+        }
+        .footer a:hover {
+            text-decoration: underline;
+        }
+        img.profile-pic {
+            border-radius: 50%;
+            height: 200px;
+            width: 200px;
+            object-fit: cover;
+            margin-right: 1.5rem;
+        }
+        .project-img {
+            object-fit: cover;
+            height: 225px;
+        }
+   
